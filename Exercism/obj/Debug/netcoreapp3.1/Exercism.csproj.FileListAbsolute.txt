@@ -1,0 +1,14 @@
+C:\GitHub\Exercism\Exercism\bin\Debug\netcoreapp3.1\Exercism.exe
+C:\GitHub\Exercism\Exercism\bin\Debug\netcoreapp3.1\Exercism.deps.json
+C:\GitHub\Exercism\Exercism\bin\Debug\netcoreapp3.1\Exercism.runtimeconfig.json
+C:\GitHub\Exercism\Exercism\bin\Debug\netcoreapp3.1\Exercism.runtimeconfig.dev.json
+C:\GitHub\Exercism\Exercism\bin\Debug\netcoreapp3.1\Exercism.dll
+C:\GitHub\Exercism\Exercism\bin\Debug\netcoreapp3.1\Exercism.pdb
+C:\GitHub\Exercism\Exercism\obj\Debug\netcoreapp3.1\Exercism.csproj.AssemblyReference.cache
+C:\GitHub\Exercism\Exercism\obj\Debug\netcoreapp3.1\Exercism.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Exercism\Exercism\obj\Debug\netcoreapp3.1\Exercism.AssemblyInfoInputs.cache
+C:\GitHub\Exercism\Exercism\obj\Debug\netcoreapp3.1\Exercism.AssemblyInfo.cs
+C:\GitHub\Exercism\Exercism\obj\Debug\netcoreapp3.1\Exercism.csproj.CoreCompileInputs.cache
+C:\GitHub\Exercism\Exercism\obj\Debug\netcoreapp3.1\Exercism.dll
+C:\GitHub\Exercism\Exercism\obj\Debug\netcoreapp3.1\Exercism.pdb
+C:\GitHub\Exercism\Exercism\obj\Debug\netcoreapp3.1\Exercism.genruntimeconfig.cache
