@@ -3,6 +3,7 @@ using Exercism.Booleans;
 using Exercism.ExtensionMethods;
 using Exercism.IfStatements;
 using Exercism.Strings;
+using Exercism.Tuples;
 using System;
 
 namespace Exercism
@@ -10,6 +11,10 @@ namespace Exercism
     internal class Program
     {
         static void Main(string[] args)
+        {
+            PhoneNumber.Analyze("631-555-1234");
+        }   
+        static void AssemblyLineEx()
         {
             AssemblyLine.WorkingItemsPerMinute(0);
             AssemblyLine.WorkingItemsPerMinute(1);
@@ -46,7 +51,7 @@ namespace Exercism
             AssemblyLine.SuccessRate(8);
             AssemblyLine.SuccessRate(9);
             AssemblyLine.SuccessRate(10);
-        }   
+        }
         static void LogAnalysis()
         {
             var log = "[INFO]: Programa corrompido com sucesso";
